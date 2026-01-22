@@ -1,0 +1,14 @@
+Name: Gideon Belaboh
+Matric Number: 23CG034049
+
+Machine Learning Algorithm Used:
+Random Forest Classifier
+
+Model Persistence Method Used:
+Joblib
+
+Live URL of the Hosted Application:
+https://winecultivar-23cg034049-belaboh.onrender.com
+
+GitHub Repository Link:
+https://github.com/Belz101/WineCultivar_23CG034049_Belaboh
